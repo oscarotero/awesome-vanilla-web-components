@@ -7,3 +7,4 @@ A list of web components created in vanilla javascript, without dependencies and
 - [`<mastodon-comments>`](https://github.com/oom-components/mastodon-comments): Web component to show comments from mastodon
 - [`<webcare-webshare>`](https://github.com/zachleat/webcare-webshare) Web component that uses the Web Share API to share a web site
 - [`<show-keystrokes>`](https://show-keystrokes.netlify.app/): Custom element that visualizes live keystrokes, keyboard shortcuts, and navigational keys
+- [`<snow-fall>`](https://github.com/zachleat/snow-fall): A web component to add snow to your web site.
