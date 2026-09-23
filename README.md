@@ -9,4 +9,4 @@ A list of web components created in vanilla javascript, without dependencies and
 - [`<show-keystrokes>`](https://show-keystrokes.netlify.app/): Custom element that visualizes live keystrokes, keyboard shortcuts, and navigational keys
 - [`<snow-fall>`](https://github.com/zachleat/snow-fall): A web component to add snow to your web site.
 - [`<table-of-contents>`](https://github.com/zachleat/table-of-contents): Generates a table of contents from the headings on the page and highlights visible sections
-- 
+- [`<micro-lighter>`](https://github.com/davatron5000/microlighter): zero-dep syntax highlighter that uses the CSS Highlights API
