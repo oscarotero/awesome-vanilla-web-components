@@ -10,4 +10,5 @@ A list of web components created in vanilla javascript, without dependencies and
 - [`<snow-fall>`](https://github.com/zachleat/snow-fall): A web component to add snow to your web site.
 - [`<table-of-contents>`](https://github.com/zachleat/table-of-contents): Generates a table of contents from the headings on the page and highlights visible sections
 - [`<micro-lighter>`](https://github.com/davatron5000/microlighter): zero-dep syntax highlighter that uses the CSS Highlights API
-- [`<calc-input>`](https://github.com/bramus/calc-input): A custom input element that accepts mathematical formulas
+- [`<calc-input>`](https://calc-input.netlify.app/): A custom input element that accepts mathematical formulas
+- [`<rich-input>`](https://rich-input.netlify.app/): A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API
